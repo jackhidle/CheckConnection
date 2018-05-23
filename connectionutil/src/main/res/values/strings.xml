@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConnectionUtil</string>
+
+    <string name="facebook_banner_id">385657631850975_385658995184172</string>
+    <string name="facebook_interstitial_start_id">385657631850975_466556063761131</string>
+    <string name="facebook_interstitial_hometomini_id">385657631850975_472609893155748</string>
+    <string name="facebook_interstitial_minitohome_id">385657631850975_472609966489074</string>
+    <string name="facebook_native_id">385657631850975_386302701786468</string>
+</resources>
